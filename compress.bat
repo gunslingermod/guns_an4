@@ -1,0 +1,1 @@
+xrCompress.exe gamedata -ltx build.ltx -store
